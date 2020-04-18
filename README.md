@@ -10,4 +10,4 @@
 
 ![발표포스터](/포스터.PNG)
 
-[0]: /논문 유튜브 데이터 마이닝을 통한 영상 소비자들의 관심주제 분석.pdf
+[0]: /Analyzing-the-subjects-of-online-video-consumer-s-interest-using-YouTube-data-mining
