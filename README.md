@@ -10,4 +10,4 @@
 
 ![발표포스터](/포스터.PNG)
 
-[0]: /Analyzing-the-subjects-of-online-video-consumer-s-interest-using-YouTube-data-mining
+[0]: /Analyzing-the-subjects-of-online-video-consumer-s-interest-using-YouTube-data-mining.pdf
